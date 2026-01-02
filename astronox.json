@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "First BETA.",
+  "pub_date": "2026-05-01T12:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://your.host/astronox/0.2.0/Astronox.app.tar.gz",
+      "signature": "BASE64_SIGNATURE_FROM_.sig"
+    },
+    "windows-x86_64": {
+      "url": "https://your.host/astronox/0.2.0/Astronox_0.2.0_x64_en-US.msi.zip",
+      "signature": "BASE64_SIGNATURE_FROM_.sig"
+    }
+  }
+}
